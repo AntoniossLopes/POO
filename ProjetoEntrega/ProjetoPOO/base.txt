@@ -1,0 +1,362 @@
+L,Coimbra,0,1
+U,Universidade de Coimbra,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MIEEC-Engenharia Eletrotecnica e de Computadores <
+M,Museu Nacional Machado de Castro,0
+Tema,Belas-Artes
+Horario 8:00 19:00 Sabado,Domingo
+Preco 10
+B,O Moelas,0
+Classificacao 5
+Horario 21:00 4:00 Domingo,Segunda
+Extra 10.00
+P,Portugal dos Pequenitos,0
+Tipo Tematico
+Horario 10:00 18:00 Domingo
+Entrada 7.50
+Extra 1.00
+L,Lisboa,200,0
+U,ISCTE,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Panteao Nacional,0
+Tema,Historico
+Horario 8:00 20:00 Domingo
+Preco 5
+B,Urban,0
+Classificacao 3
+Horario 00:00 8:00 Domingo,Segunda-Feira
+Extra 20
+P,Jardim Zoologico de Lisboa,0
+Tipo Tematico
+Horario 9:00 19:00 Domingo
+Entrada 7.50
+Extra 2.50
+L,Porto,124,0
+U,Universidade do Porto,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu FC Porto,0
+Tema,Historico
+Horario 8:00 18:30 Domingo
+Preco 5
+B,Adega Leonor,0
+Classificacao 4
+Horario 20:00 4:00 Domingo,Segunda-Feira
+Extra 15.00
+P,Jardim do Passeio Alegre,0
+Tipo Tematico
+Horario 10:00 18:00 Domingo
+Entrada 7.50
+Extra 1.00
+L,Algarve,440,0
+U,Universidade do Algarve,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu Arqueologico e Lapidar Infante D. Henrique,0
+Tema,Historico,0
+Horario 8:00 18:30 Domingo
+Preco 5.00
+B,Seven Vilamoura,0
+Classificao 5
+Horario 2:00 8:00 Segunda-Feira
+Extra 15.00
+P,Aquashow Park Hotel,0
+Tipo Aquatico
+Horario 10:00 20:00 Domingo
+Entrada 8.00
+Extra 3.00
+Espetaculos, true
+Equipamentos, Escorregas,Piscinas,Pranchas
+L,Paris,1570,0
+U,Universidade de Paris,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu do Louvre,0
+Tema,Artes
+Horario 8:00 18:30 Domingo
+Preco 5.00
+B,La Lucha Libre,0
+Classificao 3
+Horario 2:00 8:00 Segunda-Feira
+Extra 3.00
+P,Disneyland Resort Paris,0
+Tipo Diversoes
+Horario 10:00 20:00 Domingo
+Entrada 8.00
+Extra 3.00
+L,Barcelona,1152,0
+U,Universidade de Barcelona,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu de Futebol do Barcelona,0
+Tema,Historico
+Horario 8:00 18:30 Domingo
+Preco 5.00
+B,First Cocktail Bar Barcelona,0
+Classificao 5
+Horario 2:00 8:00 Segunda-Feira
+Extra 10.00
+P,Parc Guell,0
+Tipo Cultural
+Horario 00:00 23:59 Domingo
+Entrada 0.00
+Extra 0.00
+L,Amsterdao,2070,0
+U,Universidade de Amsterdao,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu Van Gogh,0
+Tema,Artes
+Horario 9:00 19:30 Domingo
+Preco 3.50
+B,Freddy's Bar,0
+Classificao 3
+Horario 20:00 8:00  Domingo
+Extra 10.00
+P,Sarphatipark,0
+Tipo jardim
+Horario 00:00 23:59  Domingo
+Entrada 0.00
+Extra 0.00
+L,Londres,2025,0
+U,Imperial College London,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Madame Tussauds,0
+Tema,Cultura
+Horario 8:00 20:00 Domingo
+Preco 5.00
+B,Connaught Bar,0
+Classificao 4
+Horario 21:00 8:00  Domingo
+Extra 5.00
+P,Green Park,0
+Tipo Jardim
+Horario 00:00 23:59  Domingo
+Entrada 0.00
+Extra 0.00
+L,Madrid,510,0
+U,Universidad Complutense de Madrid,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu do Padro,0
+Tema,Artes
+Horario 8:00 20:00 Domingo
+Preco 5.00
+B,Madriz-Madrid Rock Bar,0
+Classificao 4.5
+Horario 22:00 8:00  Domingo
+Extra 25.00 
+P,Jardins do Retiro de Madrid,0
+Tipo Jardim
+Horario 00:00 23:59  Domingo
+Entrada 0.00
+Extra 0.00
+L,Cracovia,3120,0
+U,Universidade de Ciencia e Tecnologia AGH,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Castelo Real de Wawel,0
+Tema,Cultura
+Horario 8:00 20:00 Domingo
+Preco 5.00
+B,Wodka Cafe-bar,0
+Classificao 3.5
+Horario 22:00 3:00 Segunda-Feira
+Extra 5.00
+P,Planty Krakowskie,0
+Tipo Jardim
+Horario 00:00 23:59 Domingo
+Entrada 0.00
+Extra 0.00
+L,Berlim,2610,0
+U,Universidade Tecnica de Berlim,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu de Pergamo,0
+Tema,Historia
+Horario 8:00 20:00 Domingo
+Preco 5.00
+B,Newton Bar,0
+Classificao 4.5
+Horario 22:00 4:00 Domingo
+Extra 3.00
+P,Spreepark,0
+Tipo Diversoes
+Horario 10:00 20:00 Domingo
+Entrada 8.00
+Extra 3.00
+L,Roma,2352,0
+U,Universidade de Roma "La Sapienza",0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Panteao,0
+Tema,Historia
+Horario 8:00 20:00 Domingo
+Preco 0.00
+B,Bar San Calisto,0
+Classificao 4.5
+Horario 22:00 4:20 Domingo
+Extra 6.00
+P,Piazza Navona,0
+Tipo Cultural
+Horario 00:00 23:59 Domingo
+Entrada 0.00
+Extra 0.00
+L,Veneza,2225,0
+U,Universidade de Veneza,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Palacio Ducal,0
+Tema,Historia
+Horario 8:00 20:00 Domingo
+Preco 5.00
+B,Chet Bar,0
+Classificao 1.5
+Horario 22:00 1:00 Domingo
+Extra 1.50
+P,Praca de Sao Marcos,0
+Tipo Cultural
+Horario 00:00 23:59 Domingo
+Entrada 0.00
+Extra 0.00
+L,Dublin,2616,0
+U,Trinity College,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Guinness Storehouse,0
+Tema,Guinness
+Horario 8:00 20:00 Domingo
+Preco 10.00
+B,Temple Bar,0
+Classificao 5
+Horario 22:00 6:00 Domingo
+Extra 7.00 
+P,Phoenix Park,0
+Tipo Jardim
+Horario 00:00 23:59 Domingo
+Entrada 0.00
+Extra 0.00
+L,Moscovo,4466,0
+U,Universidade Estatal de Moscovo,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Catedral de Sao Basilio,0
+Tema,Historia
+Horario 8:00 20:00 Domingo
+Preco 5.00
+B,Slav Bar,0
+Classificao 5
+Horario 22:00 6:00 Segunda-Feira
+Extra 25.00 
+P,Jardins de Alexander,0
+Tipo Jardim
+Horario 00:00 23:59 Domingo
+Entrada 0.00
+Extra 0.00
+L,Milao,1970,0
+U,Universidade de Milao,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Stadio Giuseppe Meazza,0
+Tema,Futebol
+Horario 8:00 20:00 Domingo
+Preco 5.00
+B,Backdoor 43,0
+Classificao 3.5
+Horario 22:00 6:00 Segunda-Feira
+Extra 5.00
+P,Parque Sempione,0
+Tipo Cultural
+Horario 00:00 23:59 Domingo
+Entrada 0.00
+Extra 0.00
+L,Atenas,2787,0
+U,Universidade de Atenas,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu da Acropole,0
+Tema,Arqueologia
+Horario 8:00 20:00 Domingo
+Preco 5.00
+B,Tiki Bar Athens,0
+Classificao 3.5
+Horario 22:00 6:00 Segunda-Feira
+Extra 7.00
+P,Allou! Fun Park,0
+Tipo Diversoes
+Horario 10:00 20:00 Domingo
+Entrada 8.00
+Extra 3.00
+L,Budapeste,2915,0
+U,Universidade de Budapeste,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu Nacional da Hungria,0
+Tema,Historia
+Horario 8:00 20:00 Domingo
+Preco 5.00
+B,Szimpla Kert,0
+Classificao 2
+Horario 22:00 5:00 Segunda-Feira
+Extra 1.00
+P,Parque de Normafa,0
+Tipo Cultural
+Horario 00:00 23:59 Domingo
+Entrada 0.00
+Extra 0.00
+L,Rio de Janeiro,7882,0
+U,Universidade Estacio de Sa,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu de Arte do Rio,0
+Tema,Artes
+Horario 8:00 20:00 Domingo
+Preco 5.00
+B,Favela Bar,0
+Classificao 1
+Horario 22:00 10:00 Segunda-Feira
+Extra 1.00
+P,Parque Lage,0
+Tipo Cultural
+Horario 00:00 23:59 Domingo
+Entrada 0.00
+Extra 0.00
+L,Munique,2308,0
+U,Universidade Tecnica de Munique,0
+Horario 8:00 19:00 Domingo 
+Cursos
+LEI-Licenciatura Engenharia Informatica, MEI-Mestrado Engenharia Informatica
+M,Museu da BMW,0
+Tema,Carros
+Horario 8:00 20:00 Domingo
+Preco 5
+B,Lisboa Bar,0
+Classificao 5
+Horario 22:00 6:00  Segunda-Feira
+Extra 10.00
+P,Hofgarten,0
+Tipo Cultural
+Horario 00:00 23:59 Domingo
+Entrada 0.00
+Extra 0.00

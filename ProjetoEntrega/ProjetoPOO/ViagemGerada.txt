@@ -1,0 +1,60 @@
+Exemplo instrutivo 1 289.0
+Custo Total da Viagem: 289.0
+Nome Cidade: Coimbra Distancia: 0
+
+
+Tipo: Universidade
+Nome: Universidade de Coimbra
+Horario Entrada: 8:00
+Horario Saida: 19:00
+
+
+Tipo: Museu
+Nome: Museu Nacional Machado de Castro
+Tema: Belas-Artes
+Custo Entrada: 10.0
+Horario Entrada: 8:00
+Horario Saida: 19:00
+
+
+Nome: O Moelas
+Classificacao: 5.0
+Despesa: 10.0
+Horario Entrada: 21:00
+Horario Saida: 4:00
+
+
+Nome Cidade: Lisboa Distancia: 203
+
+
+Tipo: Universidade
+Nome: ISCTE
+Horario Entrada: 8:00
+Horario Saida: 19:00
+
+
+Tipo: Museu
+Nome: Panteao Nacional
+Tema: Historico
+Custo Entrada: 5.0
+Horario Entrada: 8:00
+Horario Saida: 20:00
+
+
+Tipo: Museu
+Nome: Panteao Nacional
+Tema: Historico
+Custo Entrada: 5.0
+Horario Entrada: 8:00
+Horario Saida: 20:00
+
+
+Nome Cidade: Porto Distancia: 315
+
+
+Tipo: Universidade
+Nome: Universidade do Porto
+Horario Entrada: 8:00
+Horario Saida: 19:00
+
+
